@@ -189,6 +189,13 @@ class VirtualItems {
 	VITEMMACRO(sheep_grilled, "STR_Item_SheepGrilled", "sheepGrilled", 2, 155, 115, false, 100, "icons\ico_cookedMeat.paa")
 	VITEMMACRO(goat_raw, "STR_Item_GoatRaw", "goatRaw", 2, -1, 75, false, -1, "icons\food.paa")
 	VITEMMACRO(goat_grilled, "STR_Item_GoatGrilled", "goatGrilled", 2, 175, 135, false, 100, "icons\ico_cookedMeat.paa")
+	VITEMMACRO(salema, "STR_Item_Salema", "salema", 2, -1, 400, false, 35, "icons\food.paa")
+	VITEMMACRO(ornate, "STR_Item_Ornate", "ornate", 2, -1, 400, false, 35, "icons\food.paa")
+	VITEMMACRO(mackerel, "STR_Item_Mackerel", "mackerel", 4, -1, 500, false, 35, "icons\food.paa")
+	VITEMMACRO(tuna, "STR_Item_Tuna", "tuna", 6, -1, 800, false, 35, "icons\food.paa")
+	VITEMMACRO(mullet, "STR_Item_Mullet", "mullet", 4, -1, 500, false, 35, "icons\food.paa")
+	VITEMMACRO(catshark, "STR_Item_CatShark", "catshark", 6, -1, 400, false, 35, "icons\food.paa")
+	
 };
 
 
@@ -261,7 +268,7 @@ class VirtualShops {
 
 	class fishmarket {
 		name = "STR_Shops_FishMarket";
-		items[] = { "salema_raw", "salema_grilled", "ornate_raw", "ornate_grilled", "mackerel_raw", "mackerel_grilled", "tuna_raw", "tuna_grilled", "mullet_raw", "mullet_fried", "catshark_raw", "catshark_fried" };
+		items[] = { "salema_raw", "salema_grilled", "ornate_raw", "ornate_grilled", "mackerel_raw", "mackerel_grilled", "tuna_raw", "tuna_grilled", "mullet_raw", "mullet_fried", "catshark_raw", "catshark_fried", "salema", "ornate", "mackerel", "tuna", "mullet", "catshark" };
 	};
 
 	class glass {
