@@ -2984,6 +2984,48 @@
 			<Italian>profondo palombo fritti</Italian>
 			<Portuguese>profundo de cação frito</Portuguese>
 		</Key>
+				<Key ID="STR_Item_Salema">
+			<Original>Salema</Original>
+			<German>Salema</German>
+			<French>Saumon</French>
+			<Italian>Salmone</Italian>
+			<Portuguese>Salema</Portuguese>
+		</Key>
+		<Key ID="STR_Item_Ornate">
+			<Original>Ornate</Original>
+			<German>Ornate</German>
+			<French>Ornate</French>
+			<Italian>Orata</Italian>			
+			<Portuguese>Ornamentado</Portuguese>
+		</Key>
+		<Key ID="STR_Item_Mackerel">
+			<Original>Mackerel</Original>
+			<German>Makrele</German>
+			<French>Maquereau</French>
+			<Italian>Sgombro</Italian>
+			<Portuguese>Cavalinha</Portuguese>
+		</Key>
+		<Key ID="STR_Item_Tuna">
+			<Original>Tuna</Original>
+			<German>Thunfisch</German>
+			<French>Thon</French>
+			<Italian>Tonno</Italian>
+			<Portuguese>Atum</Portuguese>
+		</Key>
+		<Key ID="STR_Item_Mullet">
+			<Original>Mullet</Original>
+			<German>Mullet</German>
+			<French>Mulet</French>
+			<Italian>Triglia</Italian>
+			<Portuguese>Tainha</Portuguese>
+		</Key>
+		<Key ID="STR_Item_Catshark">
+			<Original>Cat Shark</Original>
+			<German>Katzenhai</German>
+			<French>Poisson Chat</French>
+			<Italian>Squalo</Italian>
+			<Portuguese>Tubarão Gato</Portuguese>
+		</Key>
 		<Key ID="STR_Item_Turtle">
 			<Original>Turtle Meat</Original>
 			<German>Schildkröten Fleisch</German>
